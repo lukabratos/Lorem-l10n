@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Lorem
+
+  Created by Luka Bratoš on 17/08/2014.
+  Copyright (c) 2014 Luka Bratoš. All rights reserved.
+*/
+
+// Lorem Menu
+
+HOME = "Domov"
+FEEDBACK = "Kontakt"
+LOG_OUT = "Odjava"
+LOGGED_OUT = "Odjava uspešna!" // Message when user logs out.
+
+// Lorem Feed View
+
+SHARE = "Deli"
+REPORT = "Prijavi"
+DELETE = "Izbriši"
+CANCEL = "Prekliči"
+BY = "od %@" // If person Nina posted a poem it shows as by Nina in Lorem application.
+POEM_REPORTED = "Verz prijavljen!"
+POEM_DELETED = "Verz izbrisan!"
+
+// Lorem Post Poem
+
+START_WRITING = "\n\nZačni pisati ..."
+POEM_LENGTH = "Dolžina verza je omejena na 255 znakov!"
+POST = "OBJAVI"
+POEM_POSTED = "Verz objavljen!"
