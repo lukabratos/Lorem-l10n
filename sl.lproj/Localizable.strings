@@ -8,6 +8,7 @@
 
 // Lorem Menu
 
+BACK = "Nazaj";
 HOME = "Domov";
 FEEDBACK = "Kontakt";
 LOG_OUT = "Odjava";
@@ -35,6 +36,11 @@ POEM_POSTED = "Verz objavljen!";
 USERNAME = "Uporabniško ime";
 PASSWORD = "Geslo";
 EMAIL = "Email";
+SIGN_UP = "Registracija";
+PRIVACY = "Z registracijo sprejemate pravila o zasebnosti.";
+CLOSE = "Zapri";
+SIGN_IN = "Prijava";
+FORGOT_PASSWORD = "Pozabljeno geslo?";
 WELCOME = "Dobrodošli na Lorem.\nZa objavljanje verzov se morate registrirati.";
 WELCOME_BACK = "Dobrodošli nazaj.";
 ENTER_EMAIL = "Vnesi email naslov ...";
