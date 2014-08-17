@@ -29,3 +29,17 @@ START_WRITING = "\n\nZačni pisati ...";
 POEM_LENGTH = "Dolžina verza je omejena na 255 znakov!";
 POST = "OBJAVI";
 POEM_POSTED = "Verz objavljen!";
+
+// Lorem Sign Up and Log In
+
+USERNAME = "Uporabniško ime";
+PASSWORD = "Geslo";
+EMAIL = "Email";
+WELCOME = "Dobrodošli na Lorem.\nZa objavljanje verzov se morate registrirati.";
+ENTER_EMAIL = "Vnesi email naslov ...";
+OK = "OK";
+CHECK_INBOX = "Preveri email!";
+
+// Lorem Privacy
+
+LOADING = "Nalagam ...";

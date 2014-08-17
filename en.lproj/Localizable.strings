@@ -29,3 +29,17 @@ START_WRITING = "\n\nStart writing ...";
 POEM_LENGTH = "Poem length is limited to 255 characters!";
 POST = "POST";
 POEM_POSTED = "Poem posted!";
+
+// Lorem Sign Up and Log In
+
+USERNAME = "Username";
+PASSWORD = "Password";
+EMAIL = "Email";
+WELCOME = "Welcome to Lorem.\nYou need to sign up in order to start posting.";
+ENTER_EMAIL = "Enter your email address ...";
+OK = "OK";
+CHECK_INBOX = "Check your inbox!";
+
+// Lorem Privacy
+
+LOADING = "Loading ...";
