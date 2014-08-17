@@ -4,7 +4,7 @@ These are the localization files used in [Lorem](http://loremapp.com) for iOS.
 
 ## Contributing
 
-Open a pull request to contribute a new translation.
+Open a pull request to contribute a new translation. :octocat:
 
 ## Current Support
 
