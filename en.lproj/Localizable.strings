@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Lorem
+
+  Created by Luka Bratoš on 17/08/2014.
+  Copyright (c) 2014 Luka Bratoš. All rights reserved.
+*/
+
+// Lorem Menu
+
+HOME = "Home"
+FEEDBACK = "Feedback"
+LOG_OUT = "Log Out"
+LOGGED_OUT = "Logged out!" // Message when user logs out.
+
+// Lorem Feed View
+
+SHARE = "Share"
+REPORT = "Report"
+DELETE = "Delete"
+CANCEL = "Cancel"
+BY = "by %@" // If person Nina posted a poem it shows as by Nina in Lorem application.
+POEM_REPORTED = "Poem reported!"
+POEM_DELETED = "Poem deleted!"
+
+// Lorem Post Poem
+
+START_WRITING = "\n\nStart writing ..."
+POEM_LENGTH = "Poem length is limited to 255 characters!"
+POST = "POST"
+POEM_POSTED = "Poem posted!"
