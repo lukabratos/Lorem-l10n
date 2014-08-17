@@ -36,6 +36,7 @@ USERNAME = "Username";
 PASSWORD = "Password";
 EMAIL = "Email";
 WELCOME = "Welcome to Lorem.\nYou need to sign up in order to start posting.";
+WELCOME_BACK = "Welcome back.";
 ENTER_EMAIL = "Enter your email address ...";
 OK = "OK";
 CHECK_INBOX = "Check your inbox!";

@@ -36,6 +36,7 @@ USERNAME = "Uporabniško ime";
 PASSWORD = "Geslo";
 EMAIL = "Email";
 WELCOME = "Dobrodošli na Lorem.\nZa objavljanje verzov se morate registrirati.";
+WELCOME_BACK = "Dobrodošli nazaj.";
 ENTER_EMAIL = "Vnesi email naslov ...";
 OK = "OK";
 CHECK_INBOX = "Preveri email!";
