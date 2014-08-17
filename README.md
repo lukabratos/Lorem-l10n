@@ -1,4 +1,4 @@
-# Lorem Localization
+# Lorem Localization inspired by [shares-l10n](https://github.com/nothingmagical/shares-l10n)
 
 These are the localization files used in [Lorem](http://loremapp.com) for iOS.
 
