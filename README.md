@@ -18,4 +18,4 @@ Language             | Code      | Contributor
 English              | `en`      | [@lukabratos](https://github.com/lukabratos)
 Slovenian            | `sl`      | [@lukabratos](https://github.com/lukabratos)
 
-This project is inspired by [shares-l10n](https://github.com/nothingmagical/shares-l10n).
+This project was inspired by [shares-l10n](https://github.com/nothingmagical/shares-l10n).
