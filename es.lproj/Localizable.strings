@@ -1,0 +1,52 @@
+/*
+ Localizable.strings
+ Lorem
+
+ Created by Miguel Montalvo on 26/08/2014.
+ Copyright (c) 2014 Luka Bratoš. All rights reserved.
+ */
+
+// Lorem Menu
+
+BACK = "Atrás";
+HOME = "Inicio";
+FEEDBACK = "Opinión";
+LOG_OUT = "Salir";
+LOGGED_OUT = "Desconectado!"; // Message when user logs out.
+
+// Lorem Feed View
+
+SHARE = "Comparte";
+REPORT = "Informar";
+DELETE = "Borra";
+CANCEL = "Cancelar";
+BY = "por %@"; // If person Nina posted a poem it shows as by Nina in Lorem application.
+POEM_REPORTED = "Poema creado!";
+POEM_DELETED = "Poema borrado!";
+
+// Lorem Post Poem
+
+START_WRITING = "\n\nEmpieza a escribir ...";
+POEM_LENGTH = "Los poemas no deben exceder los 255 caracteres!";
+POST = "AÑADIR";
+POEM_POSTED = "Poema añadido!";
+
+// Lorem Sign Up and Log In
+
+USERNAME = "Usuario";
+PASSWORD = "Contraseña";
+EMAIL = "Correo";
+SIGN_UP = "CREAR CUENTA";
+PRIVACY = "Al crear una cuenta aceptas las Políticas de Privacidad.";
+CLOSE = "Cerrar";
+SIGN_IN = "Entrar";
+FORGOT_PASSWORD = "Olvidaste tu contraseña?";
+WELCOME = "Bienvenido a Lorem.\nNecesitas crear una cuenta para poder añadir contenido.";
+WELCOME_BACK = "Bienvenido de nuevo.";
+ENTER_EMAIL = "Introduce tu cuenta de correo ...";
+OK = "OK";
+CHECK_INBOX = "Comprueba tu correo!";
+
+// Lorem Privacy
+
+LOADING = "Cargando ...";
