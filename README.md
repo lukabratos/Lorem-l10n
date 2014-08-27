@@ -18,5 +18,6 @@ Language             | Code      | Contributor
 English              | `en`      | [@lukabratos](https://github.com/lukabratos)
 Slovenian            | `sl`      | [@lukabratos](https://github.com/lukabratos)
 Spanish              | `es`      | [@mmontalvo](https://github.com/mmontalvo)
+French               | `fr`      | Emmanuel
 
 This project was inspired by [shares-l10n](https://github.com/nothingmagical/shares-l10n).
